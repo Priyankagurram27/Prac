@@ -2,3 +2,4 @@ Gitcommands
 ls
 pwd
 git clone 
+commit
